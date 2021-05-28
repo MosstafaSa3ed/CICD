@@ -1,0 +1,1 @@
+variable "bastian_instance_ip" {}
